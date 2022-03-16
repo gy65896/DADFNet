@@ -1,4 +1,4 @@
-# AAAI Workshop: AI for Transportation ``DADFNet: Dual Attention and Dual Frequency-Guided Dehazing Network for Video-Empowered Intelligent Transportation''
+# DADFNet: Dual Attention and Dual Frequency-Guided Dehazing Network for Video-Empowered Intelligent Transportation [AAAI Workshop: AI for Transportation]
 
 **[paper]**[DADFNet.pdf](https://github.com/gy65896/DADFNet/files/8258422/DADFNet_AAAI_V2.pdf)
 
