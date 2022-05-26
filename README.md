@@ -1,6 +1,6 @@
 # DADFNet: Dual Attention and Dual Frequency-Guided Dehazing Network for Video-Empowered Intelligent Transportation [AAAI Workshop: AI for Transportation]
 
-**[paper](https://github.com/gy65896/DADFNet/files/8258422/DADFNet_AAAI_V2.pdf)**
+**[[paper](https://github.com/gy65896/DADFNet/files/8258422/DADFNet_AAAI_V2.pdf)]**
 
 ## 1. Requirement ##
 * __Python__ == 3.7
