@@ -12,10 +12,10 @@ Visual surveillance technology is an indispensable functional component of advan
 
 ## 3. Flowchart of Our Proposed Method
 
-We refer to this network as dual attention and dual frequency-guided dehazing network (DADFNet). The framework of our proposed DADFNet is shown in Fig. \ref{fig:framework}. In particular, this network mainly consists of two parts, named dual attention module (DAM) and high-low frequency-guided sub-net (HLFN). 
+We refer to this network as dual attention and dual frequency-guided dehazing network (DADFNet). The framework of our proposed DADFNet is shown in Fig. 1. In particular, this network mainly consists of two parts, named dual attention module (DAM) and high-low frequency-guided sub-net (HLFN). 
 
 ![Figure02_Flowchart](https://user-images.githubusercontent.com/48637474/158503605-3200f3dd-ecec-4404-8ee5-04b404a30f66.png)
-**Figure 2. The architecture of our proposed dual attention and dual frequency-guided dehazing network (DADFNet). The DADFNet mainly consists of two parts, i.e., dual attention module (DAM) and high-low frequency-guided sub-net (HLFN). Note that LReLU denotes the leaky rectified linear unit function.**
+**Figure 1. The architecture of our proposed dual attention and dual frequency-guided dehazing network (DADFNet). The DADFNet mainly consists of two parts, i.e., dual attention module (DAM) and high-low frequency-guided sub-net (HLFN). Note that LReLU denotes the leaky rectified linear unit function.**
 
 ## 4. Testing
 This code contains two modes, i.e., nonhomogeneous dehazing (not stated in the article) and normal dehazing.
