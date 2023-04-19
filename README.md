@@ -1,6 +1,8 @@
-# DADFNet: Dual Attention and Dual Frequency-Guided Dehazing Network for Video-Empowered Intelligent Transportation [AAAI Workshop: AI for Transportation]
+# [AAAI 2022 Workshop] DADFNet: Dual Attention and Dual Frequency-Guided Dehazing Network for Video-Empowered Intelligent Transportation 
 
-**[[paper]](https://github.com/gy65896/DADFNet/files/8258422/DADFNet_AAAI_V2.pdf)**
+---
+>**DADFNet: Dual Attention and Dual Frequency-Guided Dehazing Network for Video-Empowered Intelligent Transportation [[paper](https://github.com/gy65896/DADFNet/files/8258422/DADFNet_AAAI_V2.pdf)]**<br> Yu Guo, [Ryan Wen Liu*](http://mipc.whut.edu.cn/index.html), Jiangtian Nie, Lingjuan Lyu, Zehui Xiong, Jiawen Kang, Han Yu, Dusit Niyato (* indicates corresponding author) <br> 
+>AAAI 2022 Workshop: AI for Transportation
 
 ## 1. Requirement ##
 * __Python__ == 3.7
@@ -17,7 +19,7 @@ We refer to this network as dual attention and dual frequency-guided dehazing ne
 ![Figure02_Flowchart](https://user-images.githubusercontent.com/48637474/158503605-3200f3dd-ecec-4404-8ee5-04b404a30f66.png)
 **Figure 1. The architecture of our proposed dual attention and dual frequency-guided dehazing network (DADFNet). The DADFNet mainly consists of two parts, i.e., dual attention module (DAM) and high-low frequency-guided sub-net (HLFN). Note that LReLU denotes the leaky rectified linear unit function.**
 
-## 4. Testing
+## 4. Test
 This code contains two modes, i.e., nonhomogeneous dehazing (not stated in the article) and normal dehazing.
 ### Normal Dehazing
 * Put the hazy image in the "input" folder
