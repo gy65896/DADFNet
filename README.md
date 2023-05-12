@@ -1,7 +1,7 @@
 # [AAAI 2022 Workshop] DADFNet: Dual Attention and Dual Frequency-Guided Dehazing Network for Video-Empowered Intelligent Transportation 
 
 ---
->**DADFNet: Dual Attention and Dual Frequency-Guided Dehazing Network for Video-Empowered Intelligent Transportation [[paper](https://github.com/gy65896/DADFNet/files/8258422/DADFNet_AAAI_V2.pdf)]**<br> Yu Guo, [Ryan Wen Liu*](http://mipc.whut.edu.cn/index.html), Jiangtian Nie, Lingjuan Lyu, Zehui Xiong, Jiawen Kang, Han Yu, Dusit Niyato (* indicates corresponding author) <br> 
+>**DADFNet: Dual Attention and Dual Frequency-Guided Dehazing Network for Video-Empowered Intelligent Transportation [[paper](https://github.com/gy65896/DADFNet/files/8258422/DADFNet_AAAI_V2.pdf)]**<br> [Yu Guo](https://gy65896.github.io/), [Ryan Wen Liu*](http://mipc.whut.edu.cn/index.html), Jiangtian Nie, Lingjuan Lyu, Zehui Xiong, Jiawen Kang, Han Yu, Dusit Niyato (* indicates corresponding author) <br> 
 >AAAI 2022 Workshop: AI for Transportation
 
 ## 1. Requirement ##
