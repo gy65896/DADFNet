@@ -6,7 +6,7 @@
 </div>
 
 ---
->**OneRestore: A Universal Restoration Framework for Composite Degradation**<br>  [Yu Guo](https://scholar.google.com/citations?user=klYz-acAAAAJ&hl=zh-CN)<sup>†</sup>, [Ryan Wen Liu](http://mipc.whut.edu.cn/index.html)<sup>* </sup>, Jiangtian Nie, Lingjuan Lyu, Zehui Xiong, Jiawen Kang, Han Yu, Dusit Niyato <br>
+>**DADFNet: Dual Attention and Dual Frequency-Guided Dehazing Network for Video-Empowered Intelligent Transportation**<br>  [Yu Guo](https://scholar.google.com/citations?user=klYz-acAAAAJ&hl=zh-CN)<sup>†</sup>, [Ryan Wen Liu](http://mipc.whut.edu.cn/index.html)<sup>* </sup>, Jiangtian Nie, Lingjuan Lyu, Zehui Xiong, Jiawen Kang, Han Yu, Dusit Niyato <br>
 (* Corresponding Author)<br>
 >AAAI Workshop: AI for Transportation
 
